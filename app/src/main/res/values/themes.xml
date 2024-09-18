@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AllNotificationExample" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/black</item> <!-- For change default views color like buttons -->
+        <item name="colorPrimaryDark">@color/black</item> <!-- for change status bar color -->
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="Theme.AllNotificationExample" parent="Base.Theme.AllNotificationExample" />
+</resources>

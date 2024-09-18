@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AllNotificationExample</string>
+    <string name="notification_types">Notification Types</string>
+</resources>
